@@ -5,4 +5,4 @@
     - name: Create a file called '/tmp/awx-2' with the content 'hello world'.
       copy:
         content: hello worldn
-        dest: /tmp/testfile.txt
+        dest: /tmp/awx2.txt
